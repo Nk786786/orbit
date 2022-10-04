@@ -7,6 +7,7 @@ found in the LICENSE file.
 """
 
 import os
+# The OS module in Python provides functions for interacting with the operating system.
 
 
 def _parse_chromium_readme(file_path):
